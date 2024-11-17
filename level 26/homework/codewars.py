@@ -16,3 +16,7 @@ def number_to_string(num):
 
 def solution(string):
     return string[::-1]
+
+
+def opposite(number):
+    return -number
