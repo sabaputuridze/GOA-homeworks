@@ -1,0 +1,32 @@
+p{
+    text-shadow: 1px 1px;
+}
+
+h1{
+    font-family: initial 'Times New Roman', Times, serif;
+}
+
+h2{
+    font-family:initial,'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h3{
+    font-family: inherit, fantasy;
+}
+
+h1{
+    text-align: center;
+    color:bisque
+}
+
+img{
+    width: 400px;
+}
+
+img{
+    width:400px;
+}
+
+iframe{
+    text-align: right;
+}
