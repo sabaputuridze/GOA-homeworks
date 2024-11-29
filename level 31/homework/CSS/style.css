@@ -1,0 +1,25 @@
+a:link{
+    color:red;
+}
+a:hover{
+    color:purple;
+    text-decoration: underline;
+}
+a:active{
+    color:purple;
+    text-decoration: underline;
+}
+a:visited{
+    color:blue;
+    text-decoration: overline;
+}
+
+button{
+    color:cyan;
+    background-color: greenyellow;
+    border: none;
+}
+button:hover{
+    color:purple;
+    background-color: black;
+}
