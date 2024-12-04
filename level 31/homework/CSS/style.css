@@ -1,3 +1,5 @@
+/* 1 */
+
 a:link{
     color:red;
 }
@@ -13,6 +15,7 @@ a:visited{
     color:blue;
     text-decoration: overline;
 }
+/* 3 */
 
 button{
     color:cyan;
