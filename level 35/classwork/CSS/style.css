@@ -1,0 +1,12 @@
+td,table{
+    border: 5px;
+    border-style: solid;
+    border-color: black;
+}
+tr:nth-child(odd){
+    color:grey;
+}
+
+tr:nth-child(1){
+    color:red;
+}
