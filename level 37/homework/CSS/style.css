@@ -1,0 +1,26 @@
+body{
+    background-color: gainsboro;
+    display:flex;
+    justify-content: center ;
+    align-items: center;
+}
+
+.container{
+    background-color: white;
+    width: 25%;
+    height: 70vh;
+    border-radius: 15px;
+}
+
+.top{
+    width: 25%;
+    height:20vh;
+    border-radius: 15px 0 0 15px;
+    background-image: url(hero.svg);
+}
+
+.bottom{
+    width: 25%;;
+    height: 50vh;
+    border-radius: 0 15px 15px 0;
+}
