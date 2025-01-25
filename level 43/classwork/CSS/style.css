@@ -1,0 +1,14 @@
+body{
+    height: 100vh;
+    color:darkblue;
+}
+
+.container{
+    width: 20%;
+    height: 50vh;
+    color:gray;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    
+}

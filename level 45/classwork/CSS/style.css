@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@100..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Roboto+Mono:wght@100..700&display=swap');
+
+
+
+.container{
+    background-color: white;
+    justify-content: center;
+    display: flex;
+}
+
+h1{
+    justify-content: center;
+    display: flex;
+    color:hsl(229, 6%, 66%);
+    font-family: "Playfair Display";
+}
+h2{
+    justify-content: center;
+    display: flex;
+    color:hsl(234, 12%, 34%);
+    font-family: "Roboto Mono";
+}
+p{
+    justify-content: center;
+    display: flex;
+    color:hsl(229, 6%, 66%);
+}
+
+.container1{
+    width:25%;
+    height:30vh;
+    background-color: white;
+    justify-content: center;
+    display:flex;
+    align-items: center;
+}
