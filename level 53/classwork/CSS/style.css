@@ -1,0 +1,21 @@
+button{
+    animation-name: abc;
+    color:red;
+    background-color: black;
+}
+
+
+button:hover{
+    transform: translate(20px);
+}
+
+
+.container{
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+}
+
+.container:hover{
+    scale: (20px);
+}

@@ -1,0 +1,21 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+
+.container{
+    border: 5px solid red;
+    width: 500px;
+    height: 500px;
+    display: grid;
+    grid-template-columns: 200px, 200px 200px;
+    grid-template-rows: 200px, 200px ;
+}
+
+.box{
+    background-color: green;
+    border: 1px solid blue;
+}
